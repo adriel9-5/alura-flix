@@ -1,0 +1,10 @@
+.titulo {
+     width: 400px;
+      height: 70px ;
+      font-weight: 700;
+      font-size: 25px;
+      line-height: 37.5px;
+      color: var(--blanco);
+      text-align: center;
+      margin: auto;
+}

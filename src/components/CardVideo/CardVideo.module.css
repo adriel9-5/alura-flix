@@ -1,0 +1,19 @@
+.card{
+    width: auto;
+    margin-bottom: 24px;
+}
+
+.card img{
+    width: 350px;
+    border-radius: 15px;
+    position: relative;
+    
+}
+
+.footer{
+    background-color: black;
+    width: 350px;
+    border-radius: 15px;
+    color: #fff;
+}
+

@@ -1,0 +1,27 @@
+.equipos{
+    display: flex;
+    flex-direction: column;
+}
+
+.equipos label{
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+margin-bottom: 10px;
+}
+
+.equipos select{
+    color: #fff;
+    width: 440px;
+    background:none;
+    border-radius: 10px;
+    border:  solid 1px grey;
+    padding: 10px 20px;
+    outline-color: blueviolet;
+    font-size: 15px;
+}
+
+.equipos option{
+    color: #262626;
+    
+}
